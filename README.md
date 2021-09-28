@@ -7,4 +7,5 @@ Generated with:
 - Added configuration for GitHub Codespaces and Gitpod
 - Added bare-minimum `Gemfile`
 - Comment out unused Rails features in `application.rb`
-- Modify `development.rb` to allow development hosts and to remove helpers, assets, and test framework
+- Modify `development.rb` to allow development hosts and to remove helpers, asset pipeline, and test framework
+- Removes `assets.rb` from initializers, since there's no asset pipeline
