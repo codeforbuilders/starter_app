@@ -2,7 +2,7 @@
 
 ### Assumptions
 
-- This is a skeleton project for a student learning to develop web applications using Ruby on Rails.
+- This is a template project for a student learning to develop web applications using Ruby on Rails.
 - For learning, we don't need the asset pipeline. CSS is Tailwind. External resources, e.g. Tailwind, Bootstrap, jQuery, etc. can be linked in the `head` via `script` tag. Any custom CSS, JavaScript, images, or other assets can be linked from the `public` directory, Rails 2-style.
 - Using an online IDE like Gitpod or GitHub Codespaces; configuration for both is included.
 ### Implementation
